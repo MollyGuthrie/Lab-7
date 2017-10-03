@@ -1,0 +1,7 @@
+c:\users\guthrim\source\repos\Lab7again\Lab7again\bin\Debug\Lab7again.exe.config
+c:\users\guthrim\source\repos\Lab7again\Lab7again\bin\Debug\Lab7again.exe
+c:\users\guthrim\source\repos\Lab7again\Lab7again\bin\Debug\Lab7again.pdb
+c:\users\guthrim\source\repos\Lab7again\Lab7again\obj\Debug\Lab7again.csprojResolveAssemblyReference.cache
+c:\users\guthrim\source\repos\Lab7again\Lab7again\obj\Debug\Lab7again.csproj.CoreCompileInputs.cache
+c:\users\guthrim\source\repos\Lab7again\Lab7again\obj\Debug\Lab7again.exe
+c:\users\guthrim\source\repos\Lab7again\Lab7again\obj\Debug\Lab7again.pdb
